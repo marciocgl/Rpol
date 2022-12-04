@@ -3,7 +3,7 @@ Código fonte exemplo para o cálculo da polarização de um sistema de recomend
 
 
 <h1 align="center">
-    <img src="https://ibb.co/q9x1qd2" alt="primary-Logo" border="0">
+    <a href="https://ibb.co/q9x1qd2"><img src="https://i.ibb.co/Mp9NwsJ/Algoritmo-Rpol.png" alt="Algoritmo-Rpol" border="0"></a>
 </h1>
 
 <h1 align="center">
